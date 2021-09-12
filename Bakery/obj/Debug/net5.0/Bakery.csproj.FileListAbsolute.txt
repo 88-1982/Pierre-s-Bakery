@@ -1,0 +1,5 @@
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.csprojAssemblyReference.cache
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.AssemblyInfoInputs.cache
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.AssemblyInfo.cs
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.csproj.CoreCompileInputs.cache

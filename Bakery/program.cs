@@ -5,7 +5,7 @@ namespace Bakery
 {
   public class program
 {
-public static void main()
+public static void Main()
 {
   Console.WriteLine("----------Pierre's----------");
       Console.WriteLine("Welcome to Pierre's Bakery, we've the finest selection of bread and pastries.");

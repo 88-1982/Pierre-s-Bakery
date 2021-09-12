@@ -1,6 +1,15 @@
-/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.csprojAssemblyReference.cache
 /Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.GeneratedMSBuildEditorConfig.editorconfig
 /Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.AssemblyInfoInputs.cache
 /Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.AssemblyInfo.cs
 /Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.csproj.CoreCompileInputs.cache
 /Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.csproj.AssemblyReference.cache
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/bin/Debug/net5.0/Bakery.deps.json
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/bin/Debug/net5.0/Bakery.runtimeconfig.json
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/bin/Debug/net5.0/Bakery.runtimeconfig.dev.json
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/bin/Debug/net5.0/Bakery.dll
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/bin/Debug/net5.0/ref/Bakery.dll
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/bin/Debug/net5.0/Bakery.pdb
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.dll
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/ref/Bakery.dll
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.pdb
+/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/Debug/net5.0/Bakery.genruntimeconfig.cache

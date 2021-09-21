@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/Bakery.csproj",
+      "projectUniqueName": "/Users/deauntehall/Desktop/Pierre-s-Bakery/Bakery/Bakery.csproj",
       "projectName": "Bakery",
-      "projectPath": "/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/Bakery.csproj",
+      "projectPath": "/Users/deauntehall/Desktop/Pierre-s-Bakery/Bakery/Bakery.csproj",
       "packagesPath": "/Users/deauntehall/.nuget/packages/",
-      "outputPath": "/Users/deauntehall/Desktop/PierresBakery.Solution/Bakery/obj/",
+      "outputPath": "/Users/deauntehall/Desktop/Pierre-s-Bakery/Bakery/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/deauntehall/.nuget/NuGet/NuGet.Config"

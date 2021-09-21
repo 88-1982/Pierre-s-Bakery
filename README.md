@@ -13,10 +13,10 @@ This console application allows you to select a quantity of bread and/or pastrie
 
 # Setup/Installation Requirements
 	•Clone this repository
-	•Navigate to PierresBakery.Solution/Bakery
+	•Navigate to Pierre-s- Bakery
 	•Run the command 'dotnet run'
-Instructions: using terminal, navigate to the directory you would like to download this directory to. For this example we will be navigating to desktop. For any commands, type what is in between the 'single' quotation marks. To navigate to desktop, type 'cd ~/desktop'. To confirm your location enter 'pwd'. You should receive a message similar to "/Users/deauntehall/desktop/PierresBakery.Solution" in this instance my location translates to "/hard drive c/Users folder/user/desktop". The last entry "desktop" is my current directory, and just happens to be inside of the other directories previously listed.
-Note: If you have a directory named PierresBakery.Solution located here before using this next command, you may run into issues. To see a list of directories in your current location enter 'ls' in the terminal.
+Instructions: In your Terminal, navigate to the directory you would like to download this directory to. For this example we will be navigating to desktop. For any commands, type what is in between the 'single' quotation marks. To navigate to desktop, type 'cd ~/desktop'. To confirm your location enter 'pwd'. You should receive a message similar to "/Users/deauntehall/desktop/Pierre-s-Bakery" in this instance my location translates to "/hard drive c/Users folder/user/desktop". The last entry "desktop" is my current directory, and just happens to be inside of the other directories previously listed.
+Note: If you have a directory named Pierre-s-Bakery located here before using this next command, you may run into issues. To see a list of directories in your current location enter 'ls' in the terminal.
 Next, enter the following command 'git clone https://github.com/88-1982/Pierre-s-Bakery.git'
 
 Next enter the command 'ls' which should return with a list of files and directories. Mine returned with:

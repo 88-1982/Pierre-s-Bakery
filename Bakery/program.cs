@@ -34,10 +34,23 @@ public static void Main()
       bool arePastriesWhole = int.TryParse(pastryPieces, out orderedPastries);
       if (arePastriesWhole && orderedPastries >= 0)
     {
+      PastryOrder newPastryOrder = new PastryOrder(orderedPastries);
+        newPastryOrder.SetPastriesPrice();
+        total += newPastryOrder.PastriesPrice;
+      }
+      else
+      {
+        Console.WriteLine("Please add only an intgers");
+        Main();
+      }
+      Console.WriteLine($"Your total is ${total}");
+      Console.WriteLine("Thank you for shopping with us!");
+    }
+  }
+}
 
-}
-}
-}
+
+
 
 
   

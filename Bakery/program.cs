@@ -23,7 +23,12 @@ public static void Main()
         newBreadOrder.SetBreadPrice();
         total += newBreadOrder.OrderedBread;
       }
-}
+      else
+      {
+        Console.WriteLine("Please add only an intgers");
+        Main();  
+      }
+}     
 }
 }
 

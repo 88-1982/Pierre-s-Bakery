@@ -28,7 +28,14 @@ public static void Main()
         Console.WriteLine("Please add only an intgers");
         Main();  
       }
-}     
+      Console.WriteLine("How many pastries would you like?");
+      string pastryPieces = Console.ReadLine();
+      int orderedPastries;
+      bool arePastriesWhole = int.TryParse(pastryPieces, out orderedPastries);
+      if (arePastriesWhole && orderedPastries >= 0)
+    {
+
+}
 }
 }
 
